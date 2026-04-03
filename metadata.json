@@ -1,0 +1,5 @@
+{
+  "name": "VidStream",
+  "description": "A fully functional video sharing platform clone with search, categories, and immersive playback experience.",
+  "requestFramePermissions": []
+}
